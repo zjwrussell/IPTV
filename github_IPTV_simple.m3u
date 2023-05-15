@@ -1,0 +1,115 @@
+#EXTM3U
+# 国内频道
+#EXTINF:-1 group-title=国内频道,CCTV1
+http://112.17.40.145/PLTV/88888888/224/3221226154/index.m3u8
+#EXTINF:-1 group-title=国内频道,CCTV13
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
+#EXTINF:-1 group-title=国内频道,凤凰中文
+http://playtimeshift-live.ifeng.com/timeshift/live/06OLEGEGM4G/timeshift.m3u8?txKbps=702&delay=1
+#EXTINF:-1 group-title=国内频道,凤凰资讯
+plugin://plugin.video.youtube/play/?video_id=dmDg7NfUoSw
+#EXTINF:-1 group-title="国内频道" tvg-logo="" tvg-id="", 中天新闻
+plugin://plugin.video.youtube/play/?video_id=oIgbl7t0S_w
+#EXTINF:-1 group-title="国内频道" tvg-logo="" tvg-id="", 中天新闻2台
+plugin://plugin.video.youtube/play/?video_id=WPfPjbOLNfE
+#EXTINF:-1 group-title="国内频道" tvg-logo="" tvg-id="", 台视新闻台
+plugin://plugin.video.youtube/play/?video_id=xL0ch83RAK8
+#EXTINF:-1 group-title="国内频道" tvg-logo="" tvg-id="", 中视新闻
+plugin://plugin.video.youtube/play/?video_id=TCnaIE_SAtM
+#EXTINF:-1 group-title="国内频道" tvg-logo="" tvg-id="", 民视新闻台
+plugin://plugin.video.youtube/play/?video_id=ylYJSBUgaMA
+#EXTINF:-1 group-title="国内频道" tvg-logo="" tvg-id="", 三立Live+
+plugin://plugin.video.youtube/play/?video_id=jlldIiGA5bU
+#EXTINF:-1 group-title="国内频道" tvg-logo="" tvg-id="", 镜新闻
+plugin://plugin.video.youtube/play/?video_id=5n0y6b0Q25o
+#EXTINF:-1 group-title="国内频道" tvg-logo="" tvg-id="", TVBS新闻台
+plugin://plugin.video.youtube/play/?video_id=2mCSYvcfhtc
+#EXTINF:-1 group-title="国内频道" tvg-logo="" tvg-id="", 东森新闻台
+plugin://plugin.video.youtube/play/?video_id=R2iMq5LKXco
+#EXTINF:-1 group-title="国内频道" tvg-logo="" tvg-id="", 寰宇新闻台
+plugin://plugin.video.youtube/play/?video_id=B7Zp3d6xXWw
+#EXTINF:-1 group-title="国内频道" tvg-logo="" tvg-id="", 新唐人LIVE
+plugin://plugin.video.youtube/play/?video_id=WIhgU_mc05A
+#EXTINF:-1 group-title=国内频道,CCTV2
+http://112.17.40.145/PLTV/88888888/224/3221226138/index.m3u8
+#EXTINF:-1 group-title=国内频道,CCTV3
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
+#EXTINF:-1 group-title=国内频道,CCTV4
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
+#EXTINF:-1 group-title=国内频道,CCTV5
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
+#EXTINF:-1 group-title=国内频道,CCTV5+
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
+#EXTINF:-1 group-title=国内频道,CCTV6
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index.m3u8
+#EXTINF:-1 group-title=国内频道,CCTV15
+http://39.135.138.58:18890/PLTV/88888888/224/3221225641/index.m3u8
+#EXTINF:-1 group-title=国内频道,浙江卫视
+http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
+#EXTINF:-1 group-title=国内频道,浙江民生
+http://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+#EXTINF:-1 group-title=国内频道,浙江公共
+http://hw-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8?k=4812130c6c3788cf5c6a6ba64a47678c&amp;t=1577153743
+#EXTINF:-1 group-title=国内频道,湖南卫视
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225799/index.m3u8
+#EXTINF:-1 group-title=国内频道,东方卫视
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226217/index.m3u8
+#EXTINF:-1 group-title=国内频道,江苏卫视
+http://112.17.40.145/PLTV/88888888/224/3221226140/index.m3u8
+#EXTINF:-1 group-title=国内频道,北京卫视
+http://112.17.40.145/PLTV/88888888/224/3221226164/index.m3u8
+#EXTINF:-1 group-title=国内频道,山东卫视
+http://112.17.40.145/PLTV/88888888/224/3221226144/index.m3u8
+#EXTINF:-1 group-title=国内频道,河南卫视
+http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000296103.m3u8
+#EXTINF:-1 group-title=国内频道,安徽卫视
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226196/index.m3u8
+#EXTINF:-1 group-title=国内频道,江西卫视
+http://112.17.40.145/PLTV/88888888/224/3221226128/index.m3u8
+
+
+# 求索动物/求索记录
+#EXTINF:-1 group-title=国内频道,求索
+http://112.17.40.145/PLTV/88888888/224/3221226360/index.m3u8
+#EXTINF:-1 group-title=国内频道,求索记录
+http://39.134.66.66/PLTV/88888888/224/3221225713/index.m3u8
+#EXTINF:-1 group-title=国内频道,求索科学
+http://39.134.65.162/PLTV/88888888/224/3221225728/index.m3u8
+#EXTINF:-1 group-title=国内频道,求索动物
+http://39.134.66.66/PLTV/88888888/224/3221225730/index.m3u8
+#EXTINF:-1 group-title=国内频道,求索生活
+http://39.134.65.162/PLTV/88888888/224/3221225715/index.m3u8
+
+
+# 国际频道
+#EXTINF:-1 group-title=国际频道,CNN
+https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 group-title=国际频道,NHKWorld
+https://b-nhkwlive-burnin2.webcdn.stream.ne.jp/live/index_1M.m3u8
+#EXTINF:-1 group-title=国际频道,ABC News Live
+plugin://plugin.video.youtube/play/?video_id=w_Ma8oQLmSM
+#EXTINF:-1 group-title=国际频道,BBCWorldNews
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+#EXTINF:-1 group-title=国际频道,FOX News Now
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title=国际频道,NBC News Now
+https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_0_6596000.m3u8
+#EXTINF:-1 group-title=国际频道,SkyNews
+https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
+#EXTINF:-1 group-title=国际频道,Euronews
+https://rakuten-euronews-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title=国际频道,ChannelNewsAsia
+http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+#EXTINF:-1 group-title=国际频道,NTV News 24
+https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+#EXTINF:-1 group-title=国际频道,DW English
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 group-title=国际频道,CNA Live
+plugin://plugin.video.youtube/play/?video_id=XWq5kBlakcQ
+#EXTINF:-1 group-title=国际频道,半岛电视台
+plugin://plugin.video.youtube/play/?video_id=gCNeDWCI0vo
+#EXTINF:-1 group-title=国际频道,NASA Live
+plugin://plugin.video.youtube/play/?video_id=21X5lGlDOfg
+#EXTINF:-1 group-title=国际频道,National Geographic Live
+plugin://plugin.video.youtube/play/?video_id=0ThMultL4PY
+
