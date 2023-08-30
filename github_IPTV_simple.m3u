@@ -61,7 +61,7 @@ http://112.17.40.145/PLTV/88888888/224/3221226164/index.m3u8
 #EXTINF:-1 group-title=国内频道,山东卫视
 http://112.17.40.145/PLTV/88888888/224/3221226144/index.m3u8
 #EXTINF:-1 group-title=国内频道,河南卫视
-http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000296103.m3u8
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225767/index.m3u8
 #EXTINF:-1 group-title=国内频道,安徽卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226196/index.m3u8
 #EXTINF:-1 group-title=国内频道,江西卫视
@@ -85,19 +85,19 @@ http://39.134.65.162/PLTV/88888888/224/3221225715/index.m3u8
 #EXTINF:-1 group-title=国际频道,CNN
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title=国际频道,NHKWorld
-https://b-nhkwlive-burnin2.webcdn.stream.ne.jp/live/index_1M.m3u8
+plugin://plugin.video.youtube/play/?video_id=f0lYkdA-Gtw
 #EXTINF:-1 group-title=国际频道,ABC News Live
-plugin://plugin.video.youtube/play/?video_id=w_Ma8oQLmSM
+plugin://plugin.video.youtube/play/?video_id=OOtxXPaQvoM
 #EXTINF:-1 group-title=国际频道,BBCWorldNews
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 #EXTINF:-1 group-title=国际频道,FOX News Now
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title=国际频道,NBC News Now
-https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_0_6596000.m3u8
+plugin://plugin.video.youtube/play/?video_id=P-8C-f1flcw
 #EXTINF:-1 group-title=国际频道,SkyNews
 https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
 #EXTINF:-1 group-title=国际频道,Euronews
-https://rakuten-euronews-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+plugin://plugin.video.youtube/play/?video_id=pykpO5kQJ98
 #EXTINF:-1 group-title=国际频道,ChannelNewsAsia
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 #EXTINF:-1 group-title=国际频道,NTV News 24
@@ -111,5 +111,5 @@ plugin://plugin.video.youtube/play/?video_id=gCNeDWCI0vo
 #EXTINF:-1 group-title=国际频道,NASA Live
 plugin://plugin.video.youtube/play/?video_id=21X5lGlDOfg
 #EXTINF:-1 group-title=国际频道,National Geographic Live
-plugin://plugin.video.youtube/play/?video_id=0ThMultL4PY
+plugin://plugin.video.youtube/play/?video_id=gKDjesLozm4
 
