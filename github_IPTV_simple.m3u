@@ -25,9 +25,9 @@ plugin://plugin.video.youtube/play/?video_id=5n0y6b0Q25o
 #EXTINF:-1 group-title="国内频道" tvg-logo="" tvg-id="", TVBS新闻台
 plugin://plugin.video.youtube/play/?video_id=m_dhMSvUCIc
 #EXTINF:-1 group-title="国内频道" tvg-logo="" tvg-id="", 东森新闻台
-plugin://plugin.video.youtube/play/?video_id=khuZW5GdBXo
+plugin://plugin.video.youtube/play/?video_id=Dn-LI8xzu7I
 #EXTINF:-1 group-title="国内频道" tvg-logo="" tvg-id="", 寰宇新闻台
-plugin://plugin.video.youtube/play/?video_id=B7Zp3d6xXWw
+plugin://plugin.video.youtube/play/?video_id=UcTIv4ZaE5Y
 #EXTINF:-1 group-title="国内频道" tvg-logo="" tvg-id="", 新唐人LIVE
 plugin://plugin.video.youtube/play/?video_id=WIhgU_mc05A
 #EXTINF:-1 group-title=国内频道,CCTV2
@@ -45,13 +45,15 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index.m3u8
 #EXTINF:-1 group-title=国内频道,CCTV15
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
 #EXTINF:-1 group-title=国内频道,浙江卫视
-http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225798/index.m3u8
 #EXTINF:-1 group-title=国内频道,浙江民生
 http://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 #EXTINF:-1 group-title=国内频道,浙江公共
-http://hw-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8?k=4812130c6c3788cf5c6a6ba64a47678c&amp;t=1577153743
+http://hw-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+#EXTINF:-1 group-title=国内频道,浙江国际
+http://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 #EXTINF:-1 group-title=国内频道,湖南卫视
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225799/index.m3u8
+http://39.134.66.66/PLTV/88888888/224/3221225506/index.m3u8
 #EXTINF:-1 group-title=国内频道,东方卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226217/index.m3u8
 #EXTINF:-1 group-title=国内频道,江苏卫视
