@@ -45,7 +45,7 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index.m3u8
 #EXTINF:-1 group-title=国内频道,CCTV15
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
 #EXTINF:-1 group-title=国内频道,CCTV16
-https://cntv.sbs/tv?auth=230927&id=cctv164k
+https://cntv.sbs/tv?auth=230927&id=cctv16
 #EXTINF:-1 group-title=国内频道,浙江卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225798/index.m3u8
 #EXTINF:-1 group-title=国内频道,浙江民生
