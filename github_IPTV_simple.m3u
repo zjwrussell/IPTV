@@ -110,6 +110,10 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 plugin://plugin.video.youtube/play/?video_id=XWq5kBlakcQ
 #EXTINF:-1 group-title=国际频道,半岛电视台
 plugin://plugin.video.youtube/play/?video_id=gCNeDWCI0vo
+#EXTINF:-1 group-title=国际频道,JapaNews24
+plugin://plugin.video.youtube/play/?video_id=coYw-eVU0Ks
+#EXTINF:-1 group-title=国际频道,ANNNews
+plugin://plugin.video.youtube/play/?video_id=yYYBBgc6X8c
 #EXTINF:-1 group-title=国际频道,NASA Live
 plugin://plugin.video.youtube/play/?video_id=21X5lGlDOfg
 #EXTINF:-1 group-title=国际频道,National Geographic Live
