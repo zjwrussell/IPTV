@@ -47,7 +47,7 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
 #EXTINF:-1 group-title="国内频道" tvg-logo="" tvg-id="", 翡翠台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 #EXTINF:-1 group-title="国内频道" tvg-logo="" tvg-id="", 中天新闻
-plugin://plugin.video.youtube/play/?video_id=oIgbl7t0S_w
+plugin://plugin.video.youtube/play/?video_id=NzJkg5Gyp8I
 #EXTINF:-1 group-title="国内频道" tvg-logo="" tvg-id="", 中天新闻2台
 plugin://plugin.video.youtube/play/?video_id=WPfPjbOLNfE
 #EXTINF:-1 group-title="国内频道" tvg-logo="" tvg-id="", 台视新闻台
@@ -63,7 +63,9 @@ plugin://plugin.video.youtube/play/?video_id=5n0y6b0Q25o
 #EXTINF:-1 group-title="国内频道" tvg-logo="" tvg-id="", TVBS新闻台
 plugin://plugin.video.youtube/play/?video_id=m_dhMSvUCIc
 #EXTINF:-1 group-title="国内频道" tvg-logo="" tvg-id="", 东森新闻台
-plugin://plugin.video.youtube/play/?video_id=2dfAzcDf8Zg
+plugin://plugin.video.youtube/play/?video_id=V1p33hqPrUk
+#EXTINF:-1 group-title="国内频道" tvg-logo="" tvg-id="", 东森财经新闻
+plugin://plugin.video.youtube/play/?video_id=0CfImCAFIPo
 #EXTINF:-1 group-title="国内频道" tvg-logo="" tvg-id="", 寰宇新闻台
 plugin://plugin.video.youtube/play/?video_id=6IquAgfvYmc
 #EXTINF:-1 group-title="国内频道" tvg-logo="" tvg-id="", 新唐人LIVE
@@ -85,11 +87,11 @@ http://39.134.65.162/PLTV/88888888/224/3221225715/index.m3u8
 
 # 国际频道
 #EXTINF:-1 group-title=国际频道,CNN
-https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 group-title=国际频道,NHKWorld
 plugin://plugin.video.youtube/play/?video_id=f0lYkdA-Gtw
 #EXTINF:-1 group-title=国际频道,ABC News Live
-plugin://plugin.video.youtube/play/?video_id=-mvUkiILTqI
+plugin://plugin.video.youtube/play/?video_id=DYpNU_3oPYk
 #EXTINF:-1 group-title=国际频道,ABC Selection Live
 plugin://plugin.video.youtube/play/?video_id=DYpNU_3oPYk
 #EXTINF:-1 group-title=国际频道,BBCWorldNews
