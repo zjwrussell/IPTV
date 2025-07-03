@@ -1,13 +1,13 @@
 #EXTM3U
 # 国内频道
 #EXTINF:-1 group-title=国内频道,CCTV1
-http://112.17.40.145/PLTV/88888888/224/3221226154/index.m3u8
+http://39.134.64.87:6610/PLTV/88888888/224/3221226016/index.m3u8?IASHttpSessionId=
 #EXTINF:-1 group-title=国内频道,CCTV13
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8
 #EXTINF:-1 group-title=国内频道,凤凰资讯
 plugin://plugin.video.youtube/play/?video_id=HFib76ySpbU
 #EXTINF:-1 group-title=国内频道,CCTV2
-http://112.17.40.145/PLTV/88888888/224/3221226138/index.m3u8
+http://39.134.64.87:6610/PLTV/88888888/224/3221225588/index.m3u8?IASHttpSessionId=
 #EXTINF:-1 group-title=国内频道,CCTV3
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
 #EXTINF:-1 group-title=国内频道,CCTV4
@@ -35,15 +35,15 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
 #EXTINF:-1 group-title=国内频道,东方卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8
 #EXTINF:-1 group-title=国内频道,江苏卫视
-http://112.17.40.145/PLTV/88888888/224/3221226140/index.m3u8
+http://39.134.64.87:6610/PLTV/88888888/224/3221226310/index.m3u8?IASHttpSessionId=
 #EXTINF:-1 group-title=国内频道,北京卫视
-http://112.17.40.145/PLTV/88888888/224/3221226164/index.m3u8
+http://39.134.64.87:6610/PLTV/88888888/224/3221226450/index.m3u8?IASHttpSessionId=
 #EXTINF:-1 group-title=国内频道,山东卫视
-http://112.17.40.145/PLTV/88888888/224/3221226144/index.m3u8
+http://39.134.64.87:6610/PLTV/88888888/224/3221226456/index.m3u8?IASHttpSessionId=
 #EXTINF:-1 group-title=国内频道,河南卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
+http://39.134.64.87:6610/PLTV/88888888/224/3221226480/index.m3u8?IASHttpSessionId=
 #EXTINF:-1 group-title=国内频道,安徽卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
+http://39.134.64.87:6610/PLTV/88888888/224/3221226391/index.m3u8?IASHttpSessionId=
 #EXTINF:-1 group-title="国内频道" tvg-logo="" tvg-id="", 翡翠台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 #EXTINF:-1 group-title="国内频道" tvg-logo="" tvg-id="", 中天新闻
