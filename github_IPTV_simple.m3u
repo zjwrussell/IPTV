@@ -1,9 +1,9 @@
 #EXTM3U
 # 国内频道
 #EXTINF:-1 group-title=国内频道,CCTV1
-http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+https://stream1.freetv.fun/2c1c7bd4beacde7d196355427bffb29d5ea4b5603884ec5dfaa4af3b1d6d96bb.ctv
 #EXTINF:-1 group-title=国内频道,CCTV13
-http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225817/index.m3u8
+https://stream1.freetv.fun/4d4ed7065d0289c455c5fee79578162883afbca1566f3db8a91c938783b5efd1.ctv
 #EXTINF:-1 group-title=国内频道,CCTV2
 http://39.134.64.87:6610/PLTV/88888888/224/3221225588/index.m3u8?IASHttpSessionId=
 #EXTINF:-1 group-title=国内频道,CCTV3
