@@ -3,7 +3,7 @@
 #EXTINF:-1 group-title=国内频道,CCTV1
 https://stream1.freetv.fun/2c1c7bd4beacde7d196355427bffb29d5ea4b5603884ec5dfaa4af3b1d6d96bb.ctv
 #EXTINF:-1 group-title=国内频道,CCTV13
-https://stream1.freetv.fun/2e7b27e4e568c95e8dfb79a319051fbdb6005a6f37287dadc5679c9852328e80.ctv
+http://8.134.236.66:45678/simon/tbs.php?id=cctv13
 #EXTINF:-1 group-title=国内频道,CCTV2
 https://stream1.freetv.fun/90e45e629af24313634fa61fea575313506d29231ac616016eb9f7008b3ecb3f.ctv
 #EXTINF:-1 group-title=国内频道,CCTV3
