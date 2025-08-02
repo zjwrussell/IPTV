@@ -3,25 +3,25 @@
 #EXTINF:-1 group-title=国内频道,CCTV1
 https://stream1.freetv.fun/2c1c7bd4beacde7d196355427bffb29d5ea4b5603884ec5dfaa4af3b1d6d96bb.ctv
 #EXTINF:-1 group-title=国内频道,CCTV13
-https://stream1.freetv.fun/4d4ed7065d0289c455c5fee79578162883afbca1566f3db8a91c938783b5efd1.ctv
+https://stream1.freetv.fun/2e7b27e4e568c95e8dfb79a319051fbdb6005a6f37287dadc5679c9852328e80.ctv
 #EXTINF:-1 group-title=国内频道,CCTV2
-http://39.134.64.87:6610/PLTV/88888888/224/3221225588/index.m3u8?IASHttpSessionId=
+https://stream1.freetv.fun/90e45e629af24313634fa61fea575313506d29231ac616016eb9f7008b3ecb3f.ctv
 #EXTINF:-1 group-title=国内频道,CCTV3
-http://120.76.248.139/live/bfgd/4200000062.m3u8
+https://stream1.freetv.fun/ffe7652dea115dfae8bc8bc06c1ad2625020b998a8d669e8c9215ea2c168e96e.ctv
 #EXTINF:-1 group-title=国内频道,CCTV4
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226007/index.m3u8
+https://stream1.freetv.fun/cctv4-xin-wen-1.ctv
 #EXTINF:-1 group-title=国内频道,CCTV5
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
+https://stream1.freetv.fun/efd40ea88ccc78f3262e379c8ed99bc7fefb3c2368b5a3c5704136c84fb38bc4.ctv
 #EXTINF:-1 group-title=国内频道,CCTV5+
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
+https://stream1.freetv.fun/cctv5-plus--c-1.ctv
 #EXTINF:-1 group-title=国内频道,CCTV16
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 #EXTINF:-1 group-title=国内频道,CCTV6
-http://120.76.248.139/live/bfgd/4200000065.m3u8
+https://stream1.freetv.fun/e20bb9a24216df64885410ab1b4b6e8612bcec015e029e8c7bb165d74e60d082.ctv
 #EXTINF:-1 group-title=国内频道,CCTV8
-http://120.76.248.139/live/bfgd/4200000066.m3u8
+https://stream1.freetv.fun/0fe4f4b4ae32c38ea0df71605b5dc147735054da6a283bdfaf0fd36d93a1db85.ctv
 #EXTINF:-1 group-title=国内频道,CCTV15
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
+https://stream1.freetv.fun/1c140a857d1a1fde909fed6e5a87b7f725bdc4ef1f375d8de64ed252c9bd5f88.ctv
 #EXTINF:-1 group-title=国内频道,浙江卫视
 https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 #EXTINF:-1 group-title=国内频道,浙江民生
@@ -31,41 +31,47 @@ http://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 #EXTINF:-1 group-title=国内频道,浙江国际
 http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 #EXTINF:-1 group-title=国内频道,湖南卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
+https://stream1.freetv.fun/f6f36d4cd839ad86f33757d26c2196f825656c5bbdc9d88f7f01c174bdcbffa2.ctv
 #EXTINF:-1 group-title=国内频道,东方卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8
+https://stream1.freetv.fun/3d326c6eb26a5f31cf6674c8436ba1a324bfca04e3716b3b4467ab1ab0dc9994.m3u8
 #EXTINF:-1 group-title=国内频道,江苏卫视
-http://39.134.64.87:6610/PLTV/88888888/224/3221226310/index.m3u8?IASHttpSessionId=
+https://stream1.freetv.fun/e24fc5b45570b0e5dc787e73d12d53f7a7a368dac861ecf757c4a9184594327c.ctv
 #EXTINF:-1 group-title=国内频道,北京卫视
-http://39.164.160.249:9901/tsfile/live/0122_1.m3u8
+https://stream1.freetv.fun/43d9364aff4a310ce36ae1620be76e9d70df03dc3193649ff435f27c7f819932.ctv
 #EXTINF:-1 group-title=国内频道,山东卫视
-http://39.134.64.87:6610/PLTV/88888888/224/3221226456/index.m3u8?IASHttpSessionId=
+https://stream1.freetv.fun/shan-dong-wei-shi-18.m3u8
 #EXTINF:-1 group-title=国内频道,河南卫视
-http://39.134.64.87:6610/PLTV/88888888/224/3221226480/index.m3u8?IASHttpSessionId=
+https://stream1.freetv.fun/7b9fbbcecde9381a1bf0ef4aa76657e1115186efb5062b1c2b1bf220caf0d575.ctv
 #EXTINF:-1 group-title=国内频道,安徽卫视
 http://39.134.64.87:6610/PLTV/88888888/224/3221226391/index.m3u8?IASHttpSessionId=
 #EXTINF:-1 group-title=国内频道,新视觉
 http://120.76.248.139/live/bfgd/4200000249.m3u8
+#EXTINF:-1 group-title=国内频道,凤凰中文
+http://8.134.236.66:45678/simon/tbs.php?id=fhzx
 #EXTINF:-1 group-title=国内频道,凤凰资讯
-plugin://plugin.video.youtube/play/?video_id=HFib76ySpbU
+http://8.134.236.66:45678/simon/tbs.php?id=fhzx
 #EXTINF:-1 group-title="国内频道" tvg-logo="" tvg-id="", 翡翠台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 #EXTINF:-1 group-title="国内频道" tvg-logo="" tvg-id="", 中天新闻
-plugin://plugin.video.youtube/play/?video_id=vr3XyVCR4T0
+http://8.134.236.66:45678/simon/tbs.php?id=ztxwt
 #EXTINF:-1 group-title="国内频道" tvg-logo="" tvg-id="", 台视新闻台
-plugin://plugin.video.youtube/play/?video_id=xL0ch83RAK8
+http://8.134.236.66:45678/simon/tbs.php?id=tsxwt
 #EXTINF:-1 group-title="国内频道" tvg-logo="" tvg-id="", 中视新闻
-plugin://plugin.video.youtube/play/?video_id=TCnaIE_SAtM
+http://8.134.236.66:45678/simon/tbs.php?id=zsxwt
 #EXTINF:-1 group-title="国内频道" tvg-logo="" tvg-id="", 民视新闻台
-plugin://plugin.video.youtube/play/?video_id=ylYJSBUgaMA
+http://8.134.236.66:45678/simon/tbs.php?id=msxwt
+#EXTINF:-1 group-title="国内频道" tvg-logo="" tvg-id="", 民视影剧
+http://8.134.236.66:45678/simon/tbs.php?id=msyjt
 #EXTINF:-1 group-title="国内频道" tvg-logo="" tvg-id="", 公视
-plugin://plugin.video.youtube/play/?video_id=quwqlazU-c8
+http://8.134.236.66:45678/simon/tbs.php?id=gs
+#EXTINF:-1 group-title="国内频道" tvg-logo="" tvg-id="", 天映频道
+https://smart.pendy.dpdns.org/Smart.php?id=ctv18_twn
 #EXTINF:-1 group-title="国内频道" tvg-logo="" tvg-id="", 镜新闻
 plugin://plugin.video.youtube/play/?video_id=5n0y6b0Q25o
 #EXTINF:-1 group-title="国内频道" tvg-logo="" tvg-id="", TVBS新闻台
 plugin://plugin.video.youtube/play/?video_id=m_dhMSvUCIc
 #EXTINF:-1 group-title="国内频道" tvg-logo="" tvg-id="", 东森新闻台
-plugin://plugin.video.youtube/play/?video_id=V1p33hqPrUk
+http://8.134.236.66:45678/simon/tbs.php?id=dsxwt
 #EXTINF:-1 group-title="国内频道" tvg-logo="" tvg-id="", 东森财经新闻
 plugin://plugin.video.youtube/play/?video_id=0CfImCAFIPo
 #EXTINF:-1 group-title="国内频道" tvg-logo="" tvg-id="", 寰宇新闻台
@@ -97,7 +103,7 @@ plugin://plugin.video.youtube/play/?video_id=DYpNU_3oPYk
 #EXTINF:-1 group-title=国际频道,ABC Selection Live
 plugin://plugin.video.youtube/play/?video_id=DYpNU_3oPYk
 #EXTINF:-1 group-title=国际频道,BBCWorldNews
-http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 #EXTINF:-1 group-title=国际频道,FOX News Now
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title=国际频道,NBC News Now
@@ -114,6 +120,8 @@ https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 group-title=国际频道,CNA Live
 plugin://plugin.video.youtube/play/?video_id=XWq5kBlakcQ
+#EXTINF:-1 group-title=国际频道,HBO HD
+http://8.134.236.66:45678/simon/tbs.php?id=hbohd
 #EXTINF:-1 group-title=国际频道,半岛电视台
 plugin://plugin.video.youtube/play/?video_id=gCNeDWCI0vo
 #EXTINF:-1 group-title=国际频道,JapaNews24
