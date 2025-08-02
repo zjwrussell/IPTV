@@ -7,7 +7,7 @@ http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225817/index.m3u
 #EXTINF:-1 group-title=国内频道,CCTV2
 http://39.134.64.87:6610/PLTV/88888888/224/3221225588/index.m3u8?IASHttpSessionId=
 #EXTINF:-1 group-title=国内频道,CCTV3
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
+http://120.76.248.139/live/bfgd/4200000062.m3u8
 #EXTINF:-1 group-title=国内频道,CCTV4
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226007/index.m3u8
 #EXTINF:-1 group-title=国内频道,CCTV5
@@ -17,11 +17,13 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
 #EXTINF:-1 group-title=国内频道,CCTV16
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 #EXTINF:-1 group-title=国内频道,CCTV6
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
+http://120.76.248.139/live/bfgd/4200000065.m3u8
+#EXTINF:-1 group-title=国内频道,CCTV8
+http://120.76.248.139/live/bfgd/4200000066.m3u8
 #EXTINF:-1 group-title=国内频道,CCTV15
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
 #EXTINF:-1 group-title=国内频道,浙江卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8
+https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 #EXTINF:-1 group-title=国内频道,浙江民生
 http://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 #EXTINF:-1 group-title=国内频道,浙江公共
@@ -35,13 +37,15 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8
 #EXTINF:-1 group-title=国内频道,江苏卫视
 http://39.134.64.87:6610/PLTV/88888888/224/3221226310/index.m3u8?IASHttpSessionId=
 #EXTINF:-1 group-title=国内频道,北京卫视
-http://39.134.64.87:6610/PLTV/88888888/224/3221226450/index.m3u8?IASHttpSessionId=
+http://39.164.160.249:9901/tsfile/live/0122_1.m3u8
 #EXTINF:-1 group-title=国内频道,山东卫视
 http://39.134.64.87:6610/PLTV/88888888/224/3221226456/index.m3u8?IASHttpSessionId=
 #EXTINF:-1 group-title=国内频道,河南卫视
 http://39.134.64.87:6610/PLTV/88888888/224/3221226480/index.m3u8?IASHttpSessionId=
 #EXTINF:-1 group-title=国内频道,安徽卫视
 http://39.134.64.87:6610/PLTV/88888888/224/3221226391/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 group-title=国内频道,新视觉
+http://120.76.248.139/live/bfgd/4200000249.m3u8
 #EXTINF:-1 group-title=国内频道,凤凰资讯
 plugin://plugin.video.youtube/play/?video_id=HFib76ySpbU
 #EXTINF:-1 group-title="国内频道" tvg-logo="" tvg-id="", 翡翠台
