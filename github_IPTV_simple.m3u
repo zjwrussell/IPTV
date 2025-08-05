@@ -1,55 +1,71 @@
 #EXTM3U
 # 国内频道
 #EXTINF:-1 group-title=国内频道,CCTV1
-https://stream1.freetv.fun/2c1c7bd4beacde7d196355427bffb29d5ea4b5603884ec5dfaa4af3b1d6d96bb.ctv
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236222/index.m3u8
 #EXTINF:-1 group-title=国内频道,CCTV13
-http://8.134.236.66:45678/simon/tbs.php?id=cctv13
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236169/index.m3u8
+#EXTINF:-1 group-title=国内频道,凤凰中文
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236260/index.m3u8
+#EXTINF:-1 group-title=国内频道,凤凰资讯
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236197/index.m3u8
 #EXTINF:-1 group-title=国内频道,CCTV2
-https://stream1.freetv.fun/90e45e629af24313634fa61fea575313506d29231ac616016eb9f7008b3ecb3f.ctv
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236393/index.m3u8
 #EXTINF:-1 group-title=国内频道,CCTV3
-https://stream1.freetv.fun/ffe7652dea115dfae8bc8bc06c1ad2625020b998a8d669e8c9215ea2c168e96e.ctv
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236244/index.m3u8
 #EXTINF:-1 group-title=国内频道,CCTV4
-https://stream1.freetv.fun/cctv4-xin-wen-1.ctv
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236442/index.m3u8
 #EXTINF:-1 group-title=国内频道,CCTV5
-https://stream1.freetv.fun/efd40ea88ccc78f3262e379c8ed99bc7fefb3c2368b5a3c5704136c84fb38bc4.ctv
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236444/index.m3u8
 #EXTINF:-1 group-title=国内频道,CCTV5+
-https://stream1.freetv.fun/cctv5-plus--c-1.ctv
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236306/index.m3u8
 #EXTINF:-1 group-title=国内频道,CCTV16
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236181/index.m3u8
 #EXTINF:-1 group-title=国内频道,CCTV6
-https://stream1.freetv.fun/e20bb9a24216df64885410ab1b4b6e8612bcec015e029e8c7bb165d74e60d082.ctv
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236294/index.m3u8
+#EXTINF:-1 group-title=国内频道,CCTV7
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236219/index.m3u8
 #EXTINF:-1 group-title=国内频道,CCTV8
-https://stream1.freetv.fun/0fe4f4b4ae32c38ea0df71605b5dc147735054da6a283bdfaf0fd36d93a1db85.ctv
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236211/index.m3u8
 #EXTINF:-1 group-title=国内频道,CCTV15
-https://stream1.freetv.fun/1c140a857d1a1fde909fed6e5a87b7f725bdc4ef1f375d8de64ed252c9bd5f88.ctv
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236165/index.m3u8
 #EXTINF:-1 group-title=国内频道,浙江卫视
 https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 #EXTINF:-1 group-title=国内频道,浙江民生
-http://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232996/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title=国内频道,浙江公共
 http://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 #EXTINF:-1 group-title=国内频道,浙江国际
 http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 #EXTINF:-1 group-title=国内频道,湖南卫视
-https://stream1.freetv.fun/f6f36d4cd839ad86f33757d26c2196f825656c5bbdc9d88f7f01c174bdcbffa2.ctv
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236225/index.m3u8
 #EXTINF:-1 group-title=国内频道,东方卫视
-https://stream1.freetv.fun/3d326c6eb26a5f31cf6674c8436ba1a324bfca04e3716b3b4467ab1ab0dc9994.m3u8
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236227/index.m3u8
 #EXTINF:-1 group-title=国内频道,江苏卫视
-https://stream1.freetv.fun/e24fc5b45570b0e5dc787e73d12d53f7a7a368dac861ecf757c4a9184594327c.ctv
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236221/index.m3u8
 #EXTINF:-1 group-title=国内频道,北京卫视
-https://stream1.freetv.fun/43d9364aff4a310ce36ae1620be76e9d70df03dc3193649ff435f27c7f819932.ctv
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236241/index.m3u8
 #EXTINF:-1 group-title=国内频道,山东卫视
-https://stream1.freetv.fun/shan-dong-wei-shi-18.m3u8
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236159/index.m3u8
 #EXTINF:-1 group-title=国内频道,河南卫视
-https://stream1.freetv.fun/7b9fbbcecde9381a1bf0ef4aa76657e1115186efb5062b1c2b1bf220caf0d575.ctv
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236218/index.m3u8
+#EXTINF:-1 group-title=国内频道,深圳卫视
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236251/index.m3u8
+#EXTINF:-1 group-title=国内频道,广东卫视
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236262/index.m3u8
 #EXTINF:-1 group-title=国内频道,安徽卫视
-http://39.134.64.87:6610/PLTV/88888888/224/3221226391/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 group-title=国内频道,新视觉
-http://120.76.248.139/live/bfgd/4200000249.m3u8
-#EXTINF:-1 group-title=国内频道,凤凰中文
-http://8.134.236.66:45678/simon/tbs.php?id=fhzx
-#EXTINF:-1 group-title=国内频道,凤凰资讯
-http://8.134.236.66:45678/simon/tbs.php?id=fhzx
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236177/index.m3u8
+#EXTINF:-1 group-title=国内频道,咪咕直播
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232657/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title=国内频道,Y+
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229999/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title=国内频道,爱院线
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230019/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title=国内频道,精品记录
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236276/index.m3u8
+#EXTINF:-1 group-title=国内频道,八度空间
+http://s1.an94tv.cfd/astro/8tv/AKTV.m3u8
+#EXTINF:-1 group-title=国内频道,国家地理
+http://s1.an94tv.cfd/aktv/lovenaturehd/AKTV.m3u8
 #EXTINF:-1 group-title="国内频道" tvg-logo="" tvg-id="", 翡翠台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 #EXTINF:-1 group-title="国内频道" tvg-logo="" tvg-id="", 中天新闻
@@ -132,4 +148,26 @@ plugin://plugin.video.youtube/play/?video_id=yYYBBgc6X8c
 plugin://plugin.video.youtube/play/?video_id=21X5lGlDOfg
 #EXTINF:-1 group-title=国际频道,National Geographic Live
 plugin://plugin.video.youtube/play/?video_id=gKDjesLozm4
+#EXTINF:-1 group-title=国际频道,EUROSPORT1
+http://s1.an94tv.cfd/astro/eurosport1/AKTV.m3u8
+#EXTINF:-1 group-title=国际频道,EUROSPORT2
+http://s1.an94tv.cfd/astro/eurosport2/AKTV.m3u8
+#EXTINF:-1 group-title=国际频道,TNTSPORT1
+http://s1.an94tv.cfd/astro/tntsports1/AKTV.m3u8
+#EXTINF:-1 group-title=国际频道,TNTSPORT2
+http://s1.an94tv.cfd/astro/tntsports2/AKTV.m3u8
+#EXTINF:-1 group-title=国际频道,TNTSPORT3
+http://s1.an94tv.cfd/astro/tntsports3/AKTV.m3u8
+#EXTINF:-1 group-title=国际频道,纬来体育
+http://s1.an94tv.cfd/aktv2/CH-0/AKTV.m3u8
+#EXTINF:-1 group-title=国际频道,ASTRO
+http://s1.an94tv.cfd/astro/astrosportuhd/AKTV.m3u8
+#EXTINF:-1 group-title=国际频道,ASTROFootball
+http://s1.an94tv.cfd/astro/CH-0/AKTV.m3u8
+#EXTINF:-1 group-title=国际频道,channelu
+http://s1.an94tv.cfd/aktv/channeluhd/AKTV.m3u8
+#EXTINF:-1 group-title=国际频道,channel5
+http://s1.an94tv.cfd/aktv/channel5hd/AKTV.m3u8
+#EXTINF:-1 group-title=国际频道,channel8
+http://s1.an94tv.cfd/aktv/channel8hd/AKTV.m3u8
 
